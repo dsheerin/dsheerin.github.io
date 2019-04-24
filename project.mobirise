@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "versionFirst": "4.0.14",
     "uniqCompNum": 75,
     "versionPublish": "4.9.7",
@@ -708,7 +708,7 @@
             }
           },
           "_name": "content2",
-          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-multiline mbr-article>\n                <blockquote><p>&nbsp;My name is David Sheerin. I am 22 years old from Killarney Co.Kerry. I graduated from the University of Limerick where I studied Music, Media and Performance Technology. I have gained plenty experience in my past 4 years of college, learning various programs and gaining experience in areas such as music production, video production, web design and more.</p><p><br></p><p>If you would like to look at my CV, click <a href=\"assets/files/David%20Sheerin%20(1).pdf\">here.</a></p><p>If you are interested in my Final Year Project click <a href=\"page1.html\">here</a>.</p><p>Hope you enjoy my website, and if you have any questions don't be hesitant to sent me an email at djdavidsheerin@gmail.com</p><p><br></p><p>David.&nbsp;</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content1\">\n\n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"4\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"media-container-row\">\n            <div class=\"mbr-text col-12 col-md-8 mbr-fonts-style\" mbr-theme-style=\"display-5\" data-multiline mbr-article>\n                <blockquote><p>&nbsp;My name is David Sheerin. I am 22 years old from Killarney Co.Kerry. I graduated from the University of Limerick where I studied Music, Media and Performance Technology. I have gained plenty experience in my past 4 years of college, learning various programs and gaining experience in areas such as music production, video production, web design and more.</p><p><br></p><p>If you would like to look at my CV, click <a href=\"assets/files/DavidsheerinCV.pdf\">here.</a></p><p>If you are interested in my Final Year Project click <a href=\"page1.html\">here</a>.</p><p>Hope you enjoy my website, and if you have any questions don't be hesitant to sent me an email at djdavidsheerin@gmail.com</p><p><br></p><p>David.&nbsp;</p></blockquote>\n            </div>\n        </div>\n    </div>\n</section>",
           "_cid": "qQrnpVx7zc",
           "_anchor": "content2-1x",
           "_protectedParams": [],
